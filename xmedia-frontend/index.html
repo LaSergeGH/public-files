@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
-    <title>Индекс</title>
+    <title data-upper-title="index">XMedia Digital</title>
     <meta name="description" content="Описание страницы сайта. Описание страницы сайта.">
     <link rel="stylesheet" href="css/style.css">
     <!--link(href="https://fonts.googleapis.com/css?family=Montserrat:400,900" rel="stylesheet")-->
@@ -65,7 +65,7 @@
             </defs>
         </svg>
     </div>
-    <header class="header js--header"><a class="logo js--cc-hover--link js--logo header__logo" href="home.html"><svg class="logo__svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 136.43 72">
+    <header class="header js--header"><a class="logo js--cc-hover--link js--logo header__logo" href="main.html"><svg class="logo__svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 136.43 72">
                 <defs>
                     <lineargradient id="logo_gradient" x1="23.46" y1="43.33" x2="52" y2="26.97" gradienttransform="matrix(1, 0, 0, -1, 0, 74)" gradientunits="userSpaceOnUse">
                         <stop offset="0" stop-color="#70c8de"/>
@@ -126,14 +126,16 @@
             <div class="lang header__lang"><a class="lang__item js--lang__item js--cc-hover--link lang__item--current" href="/">ru</a><a class="lang__item js--lang__item js--cc-hover--link" href="/">en</a></div>
         </div>
     </header>
-    <main class="main js--main" data-barba="container" data-barba-namespace="index">
+    <main class="main js--main" data-barba="container" data-barba-namespace="page" data-upper-title="index">
         <div class="overlay overlay--for-scroll js--overlay--for-scroll"></div>
         <section class="main__section">
-            <div class="main__wrapper">
-                <h1>Список страниц:</h1>
-                <ul>
-                    <li><a href="home.html">home.html</a><span> &dash; Главная</span></li>
-                    <li><a href="picture.html">picture.html</a><span> &dash; Картиночка</span></li>
+            <div class="main__wrapper main__wrapper--screen js--content">
+                <ul style="font-size: 2rem">
+                    <li><a class="js--cc-hover--link" target="_blank" href="main.html">main.html</a><span> &dash; Главная</span></li>
+                    <li><a class="js--cc-hover--link" target="_blank" href="service.html">service.html</a><span> &dash; Услуги</span></li>
+                    <li><a class="js--cc-hover--link" target="_blank" href="projects.html">projects.html</a><span> &dash; Проекты</span></li>
+                    <li><a class="js--cc-hover--link" target="_blank" href="partners.html">partners.html</a><span> &dash; Партнёры</span></li>
+                    <li><a class="js--cc-hover--link" target="_blank" href="contacts.html">contacts.html</a><span> &dash; Контакты</span></li>
                 </ul>
             </div>
         </section>
