@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 182.36 236">
+    <defs>
+        <style>
+          .sp-rights-fg-1-1 {
+            fill: #427b27;
+          }
+          .sp-rights-fg-1-2 {
+            fill: #2a5117;
+          }
+          .sp-rights-fg-1-3 {
+            fill: #fff;
+          }
+          .sp-rights-fg-1-4 {
+            fill: #295116;
+          }
+          .sp-rights-fg-1-5 {
+            fill: #589f37;
+          }
+          .sp-rights-fg-1-6 {
+            fill: #37691f;
+          }
+          .sp-rights-fg-1-7 {
+            fill: #4a862e;
+          }
+          .sp-rights-fg-1-8 {
+            fill: #6cbe45;
+          }
+        </style>
+    </defs>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <path class="sp-rights-fg-1-1" d="M87.36,0,0,50.45V181.56l2.66,1.33,84.7-51.78L90,1.66Z" />
+            <path class="sp-rights-fg-1-2" d="M90,1.66,2.66,51.78V182.89L90,132.44Z" />
+            <path class="sp-rights-fg-1-3" d="M4,175.59V53.77L22.92,65.06V186.54Z" />
+            <path class="sp-rights-fg-1-3" d="M4,53.77,85.37,7,105,18.26,23.58,65.39Z" />
+            <path class="sp-rights-fg-1-1" d="M107.29,11.29,19.6,61.74V192.85l2.66,1.33,85-51.78,2.33-129.45Z" />
+            <path class="sp-rights-fg-1-4" d="M109.62,12.94,22.26,63.4V194.18l87.36-50.12Z" />
+            <path class="sp-rights-fg-1-5" d="M0,50.45V181.56l22.26,12.95V63.4Z" />
+            <path class="sp-rights-fg-1-1" d="M92.68,15.93,11.29,74l13,121.15,2.66,1.66,83.38-59.41L95.33,17.26Z" />
+            <path class="sp-rights-fg-1-2" d="M95.34,17.26,14,75.35l13,121.49,86-58.09Z" />
+            <path class="sp-rights-fg-1-3" d="M27.9,189.53l-13-112.19,19.27,11,13,112.19Z" />
+            <path class="sp-rights-fg-1-3" d="M14.95,77.34,90.68,22.9l19.6,11.29L34.88,88.63Z" />
+            <path class="sp-rights-fg-1-1" d="M112.28,27.22,30.89,85.3l13,121.49,2.66,1.33,83.71-59.42L114.93,28.88Z" />
+            <path class="sp-rights-fg-1-6" d="M114.93,28.88,33.55,86.63l13,121.49L132.87,150Z" />
+            <path class="sp-rights-fg-1-7" d="M11.29,74l13,121.49,22.26,12.95L33.55,87Z" />
+            <path class="sp-rights-fg-1-1" d="M135.86,27.88,48.5,78.34V209.11l2.66,1.66,84.7-52.11,2.66-129.45Z" />
+            <path class="sp-rights-fg-1-2" d="M138.52,29.21,50.82,79.66l.33,131.11,87.36-50.45Z" />
+            <path class="sp-rights-fg-1-3" d="M52.15,203.47V81.65l19.27,11V214.43Z" />
+            <path class="sp-rights-fg-1-3" d="M52.15,81.65l81.71-46.8,19.6,11.29L72.08,92.94Z" />
+            <path class="sp-rights-fg-1-1" d="M155.46,39.17,68.1,89.62V220.73l2.66,1.33,84.71-51.78,2.66-129.45Z" />
+            <path class="sp-rights-fg-1-4" d="M158.12,40.83,70.75,90.95V222.06l87.36-50.45Z" />
+            <path class="sp-rights-fg-1-5" d="M48.5,78.34V209.45c4,2.65,0,0,22.26,12.95V91.28Z" />
+            <path class="sp-rights-fg-1-1" d="M160.11,41.82,72.41,91.94V223.05l2.66,1.66,85-52.11,2.32-129.45Z" />
+            <path class="sp-rights-fg-1-2" d="M162.43,43.15,75.07,93.6V224.71l87.36-50.45Z" />
+            <path class="sp-rights-fg-1-3" d="M76.4,217.41V95.6l19.27,11V228.37Z" />
+            <path class="sp-rights-fg-1-3" d="M76.4,95.6l81.71-47.13,19.6,11.62L96,106.88Z" />
+            <path class="sp-rights-fg-1-1" d="M179.71,53.11,92.34,103.56V234.34L95,236l84.71-51.78,2.66-129.78Z" />
+            <path class="sp-rights-fg-1-8" d="M182.36,54.44,95,104.89V236l87.36-50.45Z" />
+            <path class="sp-rights-fg-1-5" d="M72.41,91.94V223.05c4,2.65,0,0,22.26,12.95V104.89Z" />
+            <path class="sp-rights-fg-1-1" d="M24.91,61.74,22.26,63.4,0,50.45l2.66-1.66Z" />
+            <path class="sp-rights-fg-1-1" d="M73.41,89.62l-2.92,1.56L48.17,78.34l2.66-1.66Z" />
+            <path class="sp-rights-fg-1-1" d="M35.87,85l-2.92,1.56L10.73,74l2.66-1.66Z" />
+            <path class="sp-rights-fg-1-1" d="M97.66,103.56,94.25,105l-21.83-13,2.66-1.33Z" />
+        </g>
+    </g>
+</svg>

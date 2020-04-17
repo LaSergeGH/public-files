@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 267.36">
+    <defs>
+        <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#2a2a2a !important;}.sp-production-bg-1{fill:#3a3a3a !important;}.sp-production-bg-2{fill:#f2f2f2 !important;}.sp-production-bg-3{fill:#d2d2d2 !important;}</style>
+        <!-- <clipPath id="clip-path" transform="translate(0 -0.64)">
+            <rect class="cls-1" width="161.19" height="268" />
+        </clipPath> -->
+    </defs>
+    <path d="M160.2,97.44a2,2,0,0,1,2,0L297,172.86a2,2,0,0,1,.06,3.46L145.52,268,6.72,190.3Z" transform="translate(0 -0.64)" />
+    <path d="M205.79,61.5a4.1,4.1,0,0,1,4.14-.25,1.62,1.62,0,0,1,.51.43l87.06,106a2.54,2.54,0,0,0,.5.45,5.11,5.11,0,0,1,0,8.12,1.68,1.68,0,0,1-.27.15l-13.23,6L190.56,73.35a3,3,0,0,1,.92-4.64Z" transform="translate(0 -0.64)" />
+    <path class="cls-3" d="M10.15,68.51l12,6.81,12,6.81,12,6.81,12,6.81,12,6.81,12,7.95,12,6.81,12,6.81L118,131c2.63-1.51,5.26-3,8.27-4.54l-6.39-6.06-11.65-10.6L96.57,99.17,84.92,88.57,73.27,78,61.62,67.38,50,56.78,38.33,46.18,26.68,35.58,15,25a5.66,5.66,0,0,1-2.25-5.3l1.88-6.06L12,2.27s6.76-3.41,10.15-.38l11.27,10.6,11.65,10.6,11.65,10.6L68,44.29l11.65,10.6,11.65,10.6L103,76.08l11.65,10.6,11.65,11.73L137.9,109l11.65,10.6,9.39,9.08a6.65,6.65,0,0,1,1.5,1.89,5.66,5.66,0,0,1,.75,3.41l-2.63,7.95-3,9.84c-.38.76-1.13,1.14-2.25.38l.38.38a6.83,6.83,0,0,1,1.5,3.41v22c0,1.51-4.88,2.27-4.88,3.78V257.4c0,5.3-.75,6.81-3,9.08L140.9,268,15,189.26c-1.5-1.14-3-6.06-3-11.74V100.69a10.55,10.55,0,0,1,.38-3.41l-1.5-1.14C9,95,7.52,93.12,7.52,91.6V84.41L1.13,69.65C.75,69.65,6.39,66.62,10.15,68.51Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M4.88,179c0,5.3,1.5,10.6,3,11.74l132.64,76.84c1.5,1.14,3-2.65,3-7.95V182.83c0-5.3-1.5-10.6-3-11.74L7.89,93.87c-1.5-1.14-3,2.65-3,7.95Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M0,85.54v7.19a5.8,5.8,0,0,0,3.38,4.54L27.05,83.65,15,76.84Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M0,71.54v14l15-8.71L3,70Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-3" d="M0,70.78v.76L3.38,70C1.5,68.89,0,69.27,0,70.78Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M3.38,97.66l12,7.19,23.67-14L27.43,84Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M15.41,104.85l12,6.81,23.67-14-12-6.81Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M27.43,111.66l12,6.81,23.67-13.63-12-7.19Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M39.45,118.48l12,7.19,23.67-14-12-6.81Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M51.48,125.67l12,6.81,23.67-13.63-12-7.19Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M63.5,132.48l12,7.19,23.67-14-12-6.81Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M75.52,139.68l12,6.81,23.67-13.63-12-7.19Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M87.55,146.49l12,7.19,23.67-14-12-6.81Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M99.57,153.68l12,6.81,23.67-14-12-6.81Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M111.6,160.49l12,6.81,23.3-13.63a3.75,3.75,0,0,0-1.88-1.51l-9.77-5.68Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M123.62,167.31l12,6.81,12.77-7.57v-9.84a6.82,6.82,0,0,0-1.5-3.41Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M135.27,174.5l9.77,5.68c1.88,1.14,3.38.76,3.38-1.14V166.93Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M9,14.38,7.14,20.06c-.38,1.14.75,3.41,2.25,5.3l29.68-1.14L27.43,13.63Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M12.4,3,9,14.38l18.79-.76L16.53,3Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M12.77,2.27,12.4,3h3.76C14.65,1.13,13.15,1.13,12.77,2.27Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M9.39,25.36,21,36l29.68-.76-11.65-11Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M21,36l11.27,11L62,45.8,50.73,35.2Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M32.31,46.94,44,57.54l29.68-.76L62,45.8Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M44,57.54l11.27,11,29.68-1.14L73.64,56.78Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M55.23,68.51l11.65,10.6L96.57,78,84.92,67.38Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M66.88,79.11l11.27,11L107.84,89,96.57,78Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M78.15,90.09l11.65,10.6,29.68-1.14L107.84,89Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M89.8,100.69l11.27,10.6,29.68-.76-11.27-11Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M101.08,111.29l11.65,11,29.68-1.14-11.65-10.6Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M112.72,122.27l11.65,10.6,29.31-1.14a3.78,3.78,0,0,0-1.5-1.89l-9.77-8.71Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-1" d="M124,132.86l11.65,11,16.16-.38,2.63-7.95c.38-.76,0-1.89-.75-3.41Z" transform="translate(0 -0.64)" />
+    <path class="sp-production-bg-2" d="M135.64,143.84l9.39,8.71c1.88,1.51,3.38,1.89,3.76.76l3-9.84Z" transform="translate(0 -0.64)" />
+</svg>
