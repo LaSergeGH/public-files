@@ -104,8 +104,11 @@
                 <li class="menu-list__item"><a class="menu-list__link js--menu-list__link--nav js--cc-hover--link" href="partners.html" data-upper-title="partners">Партнеры</a></li>
                 <li class="menu-list__item"><a class="menu-list__link js--menu-list__link--nav js--cc-hover--link" href="contacts.html" data-upper-title="contacts">Контакты</a></li>
             </ul>
-            <div class="lang header__lang"><a class="lang__item js--lang__item js--cc-hover--link lang__item--current" href="/">ru</a><a class="lang__item js--lang__item js--cc-hover--link" href="/">en</a></div>
-            <div class="burger js--burger">
+            <div class="lang header__lang"><a class="lang__item js--lang__item js--cc-hover--link lang__item--current" href="/">ru</a>
+                <div class="lang__separator"></div><a class="lang__item js--lang__item js--cc-hover--link" href="/">en</a>
+                <div class="lang__separator"></div>
+            </div>
+            <div class="burger js--burger js--menu-mobile__trigger">
                 <div class="burger__stripe"></div>
             </div>
         </div>
@@ -189,6 +192,21 @@
             <div class="overlay__layer overlay__layer--black overlay__layer--black js--overlay__layer js--overlay__layer--prev"></div>
         </div>
     </main>
+    <div class="overlay overlay--mobile js--menu-mobile">
+        <div class="overlay__layer overlay__layer--black js--menu-mobile__layer"></div>
+        <div class="overlay__wrapper overlay__wrapper--screen">
+            <ul class="menu-list menu-list--mobile overlay__menu-list">
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="service.html">Услуги</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="projects.html">Проекты</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="partners.html">Партнеры</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="contacts.html">Контакты</a></li>
+            </ul>
+            <div class="lang overlay__lang lang--mobile js--menu-mobile__lang js--lang--mobile"><a class="lang__item js--lang__item js--cc-hover--link lang__item--current" href="/">ru</a>
+                <div class="lang__separator"></div><a class="lang__item js--lang__item js--cc-hover--link" href="/">en</a>
+                <div class="lang__separator"></div>
+            </div>
+        </div>
+    </div>
     <div class="overlay overlay--sidenav overlay--popup js--popup" data-popup="form">
         <div class="overlay__layer overlay__layer--black overlay__layer--front js--overlay__layer">
             <div class="overlay__wrapper overlay__wrapper--screen">
@@ -252,6 +270,7 @@
                         <div class="form__message js--form__message">
                             <p class="form__message-text">Спасибо за обращение!<br>Мы свяжемся с вами в ближайшее время.</p>
                         </div>
+                        <p class="form__popup-trigger js--link--popup" data-text-open="Напишите нам" data-text-close="Закрыть" data-popup="form">Напишите нам</p>
                     </form>
                 </div>
             </div>
