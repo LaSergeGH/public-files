@@ -113,14 +113,16 @@
             </div>
         </div>
     </header>
-    <main class="main js--main main--services" data-barba="container" data-barba-namespace="section" data-upper-title="projects" data-section-index="0" data-sections-count="2">
+    <main class="main js--main" data-barba="container" data-barba-namespace="section" data-upper-title="projects" data-section-index="0" data-sections-count="2">
         <div class="overlay overlay--for-scroll overlay--fixed-def js--overlay--for-scroll" style="background-image: url('./img/project-cover.jpg');">
+            <div class="overlay__layer overlay__layer--cover-mobile" style="background-image: url('./img/project-cover-mobile.jpg');"></div>
             <div class="overlay__wrapper overlay__wrapper--content">
                 <p class="main__title main__title--section-clone js--main__title--section-fixed">Вечерний Ургант</p>
             </div>
         </div>
-        <section class="main__section main__section--top js--main__section--top" style="background-image: url('./img/project-cover.jpg');">
-            <div class="main__wrapper main__wrapper--top js--content js--main__wrapper--top">
+        <section class="main__section main__section--top js--main__section--top main__section--mobile-top" style="background-image: url('./img/project-cover.jpg');">
+            <div class="main__cover-mobile" style="background-image: url('./img/project-cover-mobile.jpg');"></div>
+            <div class="main__wrapper main__wrapper--top main__wrapper--mobile-pt js--content js--main__wrapper--top">
                 <h1 class="main__title main__title--section main__title--project js--main__title--section">
                     <span class="main__title-text">
     Вечерний<br> Ургант
@@ -169,7 +171,7 @@
                                     <div class="case-details__slider-arrow case-details__slider-arrow--prev js--case-details__slider-arrow--prev js--cc-hover--prev"></div>
                                     <div class="case-details__slider-arrow case-details__slider-arrow--next js--case-details__slider-arrow--next js--cc-hover--next"></div>
                                 </div>
-                                <div class="case-details__slider case-details__slider--disabled js--case-details__slider">
+                                <div class="case-details__slider js--case-details__slider case-details__slider--disabled">
                                     <div class="case-details__slide js--case-details__slide">
                                         <div class="case-details__slide-pictures">
                                             <picture class="case-details__picture">
@@ -216,22 +218,22 @@
             <div class="overlay__layer overlay__layer--black js--overlay__layer js--overlay__layer--next"></div>
             <div class="overlay__layer overlay__layer--white overlay__layer--bottom js--overlay__layer js--overlay__layer--bottom"></div>
         </div>
-    </main>
+    </main><!-- Оверлей с выпадашкой для мобилы -->
     <div class="overlay overlay--mobile js--menu-mobile">
         <div class="overlay__layer overlay__layer--black js--menu-mobile__layer"></div>
         <div class="overlay__wrapper overlay__wrapper--screen">
             <ul class="menu-list menu-list--mobile overlay__menu-list">
-                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="service.html">Услуги</a></li>
-                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="projects.html">Проекты</a></li>
-                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="partners.html">Партнеры</a></li>
-                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile js--menu-mobile__trigger" href="contacts.html">Контакты</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile" href="service.html">Услуги</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile" href="projects.html">Проекты</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile" href="partners.html">Партнеры</a></li>
+                <li class="menu-list__item menu-list__item--mobile js--menu-mobile__item"><a class="menu-list__link js--cc-hover--link menu-list__link--mobile js--menu-list__link--mobile" href="contacts.html">Контакты</a></li>
             </ul>
             <div class="lang overlay__lang lang--mobile js--menu-mobile__lang js--lang--mobile"><a class="lang__item js--lang__item js--cc-hover--link lang__item--current" href="/">ru</a>
                 <div class="lang__separator"></div><a class="lang__item js--lang__item js--cc-hover--link" href="/">en</a>
                 <div class="lang__separator"></div>
             </div><a class="overlay__link link--feedback link--mobile js--link--feedback js--link--popup js--cc-hover--link" data-text-open="Напишите нам" data-text-close="Закрыть" data-popup="form"></a>
         </div>
-    </div>
+    </div><!-- Оверлей-попап с формой -->
     <div class="overlay overlay--sidenav overlay--popup js--popup" data-popup="form">
         <div class="overlay__layer overlay__layer--black overlay__layer--front js--overlay__layer">
             <div class="overlay__wrapper overlay__wrapper--screen">
@@ -300,7 +302,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div><!-- Оверлей с паджинатором и ссылкой -->
     <div class="overlay overlay--bottom js--overlay--bottom">
         <div class="overlay__wrapper overlay__wrapper--fsb">
             <div class="overlay__col overlay__col--left js--overlay__col--nav-dots">
@@ -310,7 +312,7 @@
             </div>
             <div class="overlay__col overlay__col--right js--overlay__col--contact"><a class="overlay__link link--feedback js--link--feedback js--link--popup js--cc-hover--link" data-text-open="Напишите нам" data-text-close="Закрыть" data-popup="form"></a></div>
         </div>
-    </div>
+    </div><!-- Оверлей с svg-фильтрами -->
     <div class="overlay overlay--popup"><svg viewbox="0 0 800 533" width="0" height="0" preserveaspectratio="xMidYMin" xmlns="http://www.w3.org/2000/svg" version="1.1">
             <defs>
                 <filter id="filter-turbulence-def-0">
